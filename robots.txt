@@ -1,3 +1,7 @@
+
+
 User-agent: *
 Allow: /
-Sitemap: https://your-github-pages-url.github.io/sitemap.xml
+
+
+Sitemap: https:https://barbahskichen.netlify.app/sitemap.xml
